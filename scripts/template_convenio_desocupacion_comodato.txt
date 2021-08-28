@@ -1,0 +1,15 @@
+Entre  el Señor @apellido_nombre_locador DNI N° @dni_locador con domicilio en @direccion_locador de la ciudad de @provincia_locador, en su carácter de Comodante del inmueble sito en calle @direccion_inmueble de esta ciudad y por otra parte Señor @apellido_nombre_cliente DNI Nº @dni_cliente teléfono @telefono_cliente con domicilio en @direccion_cliente, en su carácter de Comodatario del inmueble ubicado en calle @direccion_inmueble de la ciudad de Santiago del Estero, convienen en suscribir el presente Convenio de Desocupación sujeto a las siguientes cláusulas y disposiciones:
+
+PRIMERA: Las partes declaran que se encuentran vinculados por un contrato de comodato, en virtud del cual el COMODANTE cedió a favor del COMODATARIO el uso y goce del inmueble ubicado en calle @direccion_inmueble de la ciudad de @provincia_inmueble.
+
+SEGUNDA: El COMODATARIO se compromete por el presente, en las condiciones pactadas en el contrato, a restituir al COMODANTE el inmueble objeto del referido contrato en forma improrrogable el día ____.
+
+TERCERA: El no cumplimiento por el COMODATARIO de la entrega del bien inmueble en el día en la  cláusula  anterior,  facultará al COMODANTE a solicitar, previa homologación del presente, el lanzamiento judicial sin necesidad de interpelación judicial o extrajudicial, como asimismo hará devengar a favor del COMODANTE una multa diaria equivalente a U$S 200.
+
+CUARTA: El presente convenio se celebra de acuerdo con los términos del art. 959 del  Código Civil y Comercial. El mismo es irrevocable y las partes quedan facultadas recíprocamente para solicitar su homologación judicial.
+
+QUINTA: Para todos los efectos legales del presente convenio, las partes se someten a los Tribunales  Ordinarios en lo Civil y Comercial de la ciudad de  Santiago del Estero, renunciando a cualquier  otro fuero, y  constituyen  domicilio a todos los efectos en los consignados en el encabezamiento, donde serán validas todas las notificaciones que se efectúen.
+
+SEXTA: A los fines de cumplimentar el sellado de ley, se establece el valor total del presente convenio de desocupación en la suma de pesos dos mil ($2.000,00). Asimismo se establece que el sellado del presente será abonado en un 100% por los Comodatario.
+
+En prueba de conformidad se firman dos ejemplares de un mismo tenor, en la ciudad de Santiago del Estero a los @dia_letras_contrato días del mes de @mes_letras_contrato  de @anio_letras_contrato.

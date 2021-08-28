@@ -1,0 +1,33 @@
+Entre  el  Sr. @apellido_nombre_locador  DNI @dni_locador con domicilio en calle  @direccion_locador de la ciudad de @provincia_locador  en  adelante  denominado  el  COMODANTE   Y   el Sr.@apellido_nombre_cliente DNI Nº @dni_cliente teléfono @telefono_cliente  con domicilio en calle @direccion_cliente y el Señor _____________________________________ DNI Nº ____________________ teléfono ___________________ ambos con domicilio en calle @direccion_cliente Nº _________ del Barrio _____________________ de la ciudad de Santiago del Estero, Provincia de Santiago del Estero, en adelante denominados COMODATARIO, mayores de edad y hábiles para celebrar éste acto, se conviene celebrar el presente CONTRATO DE COMODATO sujeto a las cláusulas y condiciones siguientes:
+
+PRIMERA: El COMODANTE cede a favor del COMODATARIO el uso del inmueble de su propiedad sito en calle @direccion_inmueble, de la ciudad de @provincia_inmueble por el término de @meses_letras_contrato (@meses_contrato) meses a contar desde el @dia_contrato/@mes_desde/@anio_desde hasta el  ____/@mes_hasta/@anio_hasta.
+
+SEGUNDA: El inmueble consta de las comodidades y dependencias que son de conocimiento del COMODATARIO. El COMODATARIO declara recibir el inmueble en perfecto estado, obligándose a mantenerlo en buen estado hasta la finalización del contrato y a restituirlo en perfecto estado de conservación, limpio, pintado con pintura similar y con todos sus accesorios, caso contrario deberá abonar el importe necesario para reponer al estado al mismo estado en que ha sido recibido. Asimismo el  COMODATARIO se obliga a exhibir el inmueble al COMODANTE cada vez que éste se lo requiera, para obser­var el estado del mismo.
+
+TERCERA: Los servicios de luz, gas, expensas si las hubiere y otros que tenga el inmueble serán a cargo del COMODATARIO durante todo el tiempo que ocupe el inmueble, debiendo entregar al COMODANTE los recibos de pago correspondientes, a los efectos de la fiscalización por parte de éste de que se realizaron los pagos en término y así evitar la interrupción de los servicios públicos. Está prohibido al COMODATARIO modificar el inmueble.
+
+CUARTA: El COMODATARIO no podrá ceder el uso del inmueble a ninguna otra persona.
+
+QUINTA: El COMODATARIO se compromete a desocupar el inmueble el día del vencimiento del plazo del presente contrato y en caso de que no se lo restituya en término deberá abonar al COMODANTE una multa diaria equivalente al 10% del salario mínimo vital y móvil, durante todo el tiempo que dure la ocupación indebida fuera del término fijado. El bien lo deberá entregar libre de todo ocupante y en perfectas condiciones.
+
+SEXTA: El COMODATARIO constituye domicilio especial en el indicado en el encabezamiento y/o en el inmueble recibido en comodato en forma indistinta y el COMODANTE en calle Tucumán Nº 68 de la ciudad de Santiago del Estero, donde tendrán validez todas las notificaciones judiciales o extrajudiciales que se hagan las partes.
+
+SEPTIMA: El COMODATARIO declara haber visitado el inmueble objeto a éste contrato y que se encuentra en las condiciones descriptas en el presente.
+
+OCTAVA: El COMODATARIO acepta expresamente que para cualquier cobro judicial por sumas debidas en virtud de éste contrato se use la vía ejecutiva.
+
+NOVENA: En el marco de la relación de este COMODATO respecto del uso y goce del inmueble, se establecen las siguientes prohibiciones:
+
+   a) Queda prohibido al COMODATARIO y demás personas que visiten el inmueble y personal de servicio que contrate depositar material, mercaderías, basura, bienes muebles y/u objetos en cualquier lugar común del edificio que puedan comprometer la estética y buen gusto del mismo o significar daño y molestias o perjudicar la visual de los demás usuarios u obstruir o entorpecer el uso de dichas partes comunes.
+
+   b) Queda prohibido al COMODATARIO, sus dependientes y demás personas que visiten el inmueble estacionar bicicletas, motos o similar en la vereda, ingreso, palieres y/o patios del edificio.
+
+   c) Queda prohibido al COMODATARIO, sus familiares, dependientes y demás personas que ocupen el inmueble, la tenencia de animales y/o mascotas de cualquier naturaleza, como asimismo hacer ruidos molestos en las horas de descanso.-
+
+El incumplimiento de cualquiera de las circunstancias descriptas en la presente cláusula será causal de rescisión del COMODATO, sin perjuicio de las penalidades que establezca el Reglamento de Copropiedad y Administración del Edificio.
+
+DECIMA PRIMERA: A los fines de cumplimentar el sellado de ley, se establece el valor total del presente contrato en la suma de pesos seis mil ($6.000,00). Asimismo se establece que el sellado del presente contrato será abonado en un 100% por los Comodatario.
+
+DECIMA SEGUNDA: Para cualquier cuestión judicial las partes quedan sometidas a la competencia de los Tribunales Ordinarios de Santiago del Estero con exclusión de cualquier otro.
+
+CON LAS CLAUSU­LAS QUE AN­TECEDEN las partes dejan formali­zado el presente COMODATO y en prueba de conformidad y para su fiel cumplimiento suscriben dos ejemplares de un mismo tenor y a un solo efecto, en la ciudad de Santiago del Estero, a los @dia_letras_contrato días del mes de @mes_letras_contrato de @anio_letras_contrato.

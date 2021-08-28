@@ -1,0 +1,15 @@
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `plazo` TINYINT  NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `tipo_contrato` ENUM('LOCACION','COMODATO') NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `tipo_contrato` ENUM('LOCACION','COMODATO') NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `firma_representante` BOOLEAN  NULL DEFAULT FALSE ;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `inquilino_1` INTEGER NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `inquilino_2` INTEGER NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `deposito_garantia` BOOLEAN  NULL DEFAULT FALSE ;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `deposito_monto` DECIMAL(10,2) NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `deposito_cuotas` TINYINT NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `deposito_contrato_monto` DECIMAL(10,2) NULL;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `excento` BOOLEAN  NULL DEFAULT FALSE ;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `honorarios` BOOLEAN  NULL DEFAULT FALSE ;
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `excento_monto` DECIMAL(10,2) NULL;	
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `excento_cuotas` DECIMAL(10,2) NULL;	
+ALTER TABLE `a2_operaciones_inmobiliarias` ADD `contrato_firmado` BOOLEAN  NULL DEFAULT FALSE ;
